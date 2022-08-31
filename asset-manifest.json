@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3aceca5e.css",
+    "main.js": "/static/js/main.6e396607.js",
+    "static/js/787.5809834d.chunk.js": "/static/js/787.5809834d.chunk.js",
+    "static/media/Proj1.gif": "/static/media/Proj1.737c3a6680f876826111.gif",
+    "static/media/Game2.gif": "/static/media/Game2.6805658e6024121da17d.gif",
+    "static/media/Game3.gif": "/static/media/Game3.d428e532bca99fefe7c4.gif",
+    "static/media/Site1.gif": "/static/media/Site1.d6e738ca7b7abe35b2bb.gif",
+    "static/media/Game1.gif": "/static/media/Game1.4b18ff1b89734916d11b.gif",
+    "static/media/back.png": "/static/media/back.017a96fb469686e3b888.png",
+    "static/media/left.png": "/static/media/left.4f4f59976f7b85f0e259.png",
+    "static/media/top.png": "/static/media/top.1159d36f69d1d92799b9.png",
+    "static/media/bottom.png": "/static/media/bottom.e527535d9671713548b5.png",
+    "static/media/front.png": "/static/media/front.3ef3ac141be553f86aa6.png",
+    "static/media/right.png": "/static/media/right.7e648202180d49484d3d.png",
+    "static/media/spaceship.gltf": "/static/media/spaceship.3ed705aec37386265c2d.gltf",
+    "static/media/Site2.gif": "/static/media/Site2.75662b0db45f323ae623.gif",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.3aceca5e.css.map": "/static/css/main.3aceca5e.css.map",
+    "main.6e396607.js.map": "/static/js/main.6e396607.js.map",
+    "787.5809834d.chunk.js.map": "/static/js/787.5809834d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3aceca5e.css",
+    "static/js/main.6e396607.js"
+  ]
+}
